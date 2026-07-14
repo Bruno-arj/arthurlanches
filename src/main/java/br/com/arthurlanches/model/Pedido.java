@@ -1,4 +1,4 @@
-package model;
+package br.com.arthurlanches.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,4 +32,5 @@ public class Pedido {
         this.valorTotal = valorTotal;
         this.status = status;
     }
+
 }

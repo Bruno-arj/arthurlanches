@@ -1,4 +1,4 @@
-package model;
+package br.com.arthurlanches.model;
 
 import jakarta.persistence.Entity;
 
