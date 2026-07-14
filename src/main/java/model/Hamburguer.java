@@ -6,7 +6,7 @@ import jakarta.persistence.Entity;
 public class Hamburguer extends Produto {
 
     private String ingredientes;
-    private double valormonetario;
+    private double dinheiro;
     public Hamburguer() {
         super();
     }
